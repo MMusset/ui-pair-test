@@ -1,5 +1,5 @@
 new Vue({
-  el: "#vue",
+  el: "#website-template",
   data: {
   },
   computed: {
